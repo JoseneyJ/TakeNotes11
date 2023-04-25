@@ -36,12 +36,12 @@ router.post('/notes', (req, res) => {
         newNotesData.push(newNotes);
 
         fs.writeFile('./db/db.json', JSON.stringify(newNotesData, null, 4), (err) =>
-          err ? console.log(err) : console.log('Your Note has been added!'));
+          err ? console.log(err) : console.log('Note added!'));
       }
     });
     res.status(201).json(response);
   } else {
-    res.status(500).json('Something went wrong while trying to add your note!')
+    res.status(500).json('Something went wrong while trying to add your note')
   }
 });
 
