@@ -36,7 +36,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Application link: 
-https://fast-castle-16208.herokuapp.com/notes
+https://fast-castle-16208.herokuapp.com
 
 ## Snippet:<img width="1312" alt="Screenshot 2023-04-24 at 10 51 43 PM" src="https://user-images.githubusercontent.com/119374215/234163766-92270c24-f181-4468-b9a8-c213186e4ab9.png">
 
