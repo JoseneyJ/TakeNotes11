@@ -40,5 +40,7 @@ https://fast-castle-16208.herokuapp.com
 
 ## Snippet:<img width="1312" alt="Screenshot 2023-04-24 at 10 51 43 PM" src="https://user-images.githubusercontent.com/119374215/234163766-92270c24-f181-4468-b9a8-c213186e4ab9.png">
 
+<img width="1440" alt="Screenshot 2023-04-26 at 8 55 12 AM" src="https://user-images.githubusercontent.com/119374215/234581491-dc23b49e-3548-49bf-81f1-80227c9cc8f8.png">
+
 
 
